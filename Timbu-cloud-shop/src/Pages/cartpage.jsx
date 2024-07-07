@@ -7,7 +7,7 @@ const cartpage = () => {
   return (
     <>
       <div className="md:flex md:justify-between items-center max-w-full md:h-14 mt-5 md:px-28 text-black text-base font-[Poppins]">
-        <div className="flex items-center text-sm hidden ">
+        <div className="md:flex items-center text-sm hidden ">
           <h2>Home</h2>
           <RiArrowDropRightLine className="text-2xl" />
           <div className="flex ml-1">
